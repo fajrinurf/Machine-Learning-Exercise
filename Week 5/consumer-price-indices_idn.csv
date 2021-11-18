@@ -1,0 +1,764 @@
+Iso3,StartDate,EndDate,Area Code,Area,Item Code,Item,Months Code,Months,Year Code,Year,Unit,Value,Flag,Note
+#country+code,#date+start,#date+end,,#country+name,#indicator+code,#indicator+name,,,,#date+year,#indicator+type,#indicator+value+num,,
+IDN,2000-01-01,2000-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2000,2000,,28.335622,X,base year is 2015
+IDN,2001-01-01,2001-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2001,2001,,28.574027,X,base year is 2015
+IDN,2002-01-01,2002-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2002,2002,,32.964682,X,base year is 2015
+IDN,2003-01-01,2003-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2003,2003,,34.449753,X,base year is 2015
+IDN,2004-01-01,2004-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2004,2004,,35.045777,X,base year is 2015
+IDN,2005-01-01,2005-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2005,2005,,37.911621,X,base year is 2015
+IDN,2006-01-01,2006-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2006,2006,,43.678080,X,base year is 2015
+IDN,2007-01-01,2007-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2007,2007,,48.565415,X,base year is 2015
+IDN,2008-01-01,2008-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2008,2008,,54.078576,X,base year is 2015
+IDN,2009-01-01,2009-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2009,2009,,61.404602,X,base year is 2015
+IDN,2010-01-01,2010-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2010,2010,,64.399591,X,base year is 2015
+IDN,2011-01-01,2011-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2011,2011,,74.819950,X,base year is 2015
+IDN,2012-01-01,2012-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2012,2012,,77.278519,X,base year is 2015
+IDN,2013-01-01,2013-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2013,2013,,82.614628,X,base year is 2015
+IDN,2014-01-01,2014-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2014,2014,,92.053621,X,base year is 2015
+IDN,2015-01-01,2015-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2015,2015,,99.640759,X,base year is 2015
+IDN,2016-01-01,2016-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2016,2016,,106.212110,X,base year is 2015
+IDN,2017-01-01,2017-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2017,2017,,110.572175,X,base year is 2015
+IDN,2018-01-01,2018-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2018,2018,,113.830503,X,base year is 2015
+IDN,2019-01-01,2019-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2019,2019,,116.112114,X,base year is 2015
+IDN,2020-01-01,2020-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2020,2020,,120.912556,X,base year is 2015
+IDN,2021-01-01,2021-01-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7001,January,2021,2021,,124.315679,X,base year is 2015
+IDN,2000-02-01,2000-02-29,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2000,2000,,28.241256,X,base year is 2015
+IDN,2001-02-01,2001-02-28,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2001,2001,,29.016073,X,base year is 2015
+IDN,2002-02-01,2002-02-28,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2002,2002,,33.958042,X,base year is 2015
+IDN,2003-02-01,2003-02-28,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2003,2003,,34.186516,X,base year is 2015
+IDN,2004-02-01,2004-02-29,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2004,2004,,34.549097,X,base year is 2015
+IDN,2005-02-01,2005-02-28,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2005,2005,,37.355338,X,base year is 2015
+IDN,2006-02-01,2006-02-28,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2006,2006,,44.194630,X,base year is 2015
+IDN,2007-02-01,2007-02-28,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2007,2007,,48.977660,X,base year is 2015
+IDN,2008-02-01,2008-02-29,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2008,2008,,54.942791,X,base year is 2015
+IDN,2009-02-01,2009-02-28,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2009,2009,,61.985725,X,base year is 2015
+IDN,2010-02-01,2010-02-28,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2010,2010,,64.955867,X,base year is 2015
+IDN,2011-02-01,2011-02-28,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2011,2011,,74.571606,X,base year is 2015
+IDN,2012-02-01,2012-02-29,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2012,2012,,76.712304,X,base year is 2015
+IDN,2013-02-01,2013-02-28,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2013,2013,,84.271140,X,base year is 2015
+IDN,2014-02-01,2014-02-28,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2014,2014,,92.381798,X,base year is 2015
+IDN,2015-02-01,2015-02-28,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2015,2015,,98.179590,X,base year is 2015
+IDN,2016-02-01,2016-02-29,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2016,2016,,105.594825,X,base year is 2015
+IDN,2017-02-01,2017-02-28,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2017,2017,,110.228371,X,base year is 2015
+IDN,2018-02-01,2018-02-28,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2018,2018,,113.978964,X,base year is 2015
+IDN,2019-02-01,2019-02-28,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2019,2019,,114.783779,X,base year is 2015
+IDN,2020-02-01,2020-02-29,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2020,2020,,122.066190,X,base year is 2015
+IDN,2021-02-01,2021-02-28,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7002,February,2021,2021,,124.407029,X,base year is 2015
+IDN,2000-03-01,2000-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2000,2000,,27.595567,X,base year is 2015
+IDN,2001-03-01,2001-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2001,2001,,29.289249,X,base year is 2015
+IDN,2002-03-01,2002-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2002,2002,,33.029255,X,base year is 2015
+IDN,2003-03-01,2003-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2003,2003,,33.461362,X,base year is 2015
+IDN,2004-03-01,2004-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2004,2004,,34.583860,X,base year is 2015
+IDN,2005-03-01,2005-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2005,2005,,37.400040,X,base year is 2015
+IDN,2006-03-01,2006-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2006,2006,,43.807217,X,base year is 2015
+IDN,2007-03-01,2007-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2007,2007,,49.052164,X,base year is 2015
+IDN,2008-03-01,2008-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2008,2008,,55.732517,X,base year is 2015
+IDN,2009-03-01,2009-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2009,2009,,61.821824,X,base year is 2015
+IDN,2010-03-01,2010-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2010,2010,,64.364820,X,base year is 2015
+IDN,2011-03-01,2011-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2011,2011,,73.121299,X,base year is 2015
+IDN,2012-03-01,2012-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2012,2012,,76.458991,X,base year is 2015
+IDN,2013-03-01,2013-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2013,2013,,85.685427,X,base year is 2015
+IDN,2014-03-01,2014-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2014,2014,,91.975484,X,base year is 2015
+IDN,2015-03-01,2015-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2015,2015,,97.460726,X,base year is 2015
+IDN,2016-03-01,2016-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2016,2016,,106.321503,X,base year is 2015
+IDN,2017-03-01,2017-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2017,2017,,109.501693,X,base year is 2015
+IDN,2018-03-01,2018-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2018,2018,,114.143052,X,base year is 2015
+IDN,2019-03-01,2019-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2019,2019,,113.533581,X,base year is 2015
+IDN,2020-03-01,2020-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2020,2020,,122.191796,X,base year is 2015
+IDN,2021-03-01,2021-03-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7003,March,2021,2021,,124.909453,X,base year is 2015
+IDN,2000-04-01,2000-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2000,2000,,27.153521,X,base year is 2015
+IDN,2001-04-01,2001-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2001,2001,,29.001173,X,base year is 2015
+IDN,2002-04-01,2002-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2002,2002,,32.398468,X,base year is 2015
+IDN,2003-04-01,2003-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2003,2003,,33.163354,X,base year is 2015
+IDN,2004-04-01,2004-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2004,2004,,35.214647,X,base year is 2015
+IDN,2005-04-01,2005-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2005,2005,,37.320574,X,base year is 2015
+IDN,2006-04-01,2006-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2006,2006,,43.434705,X,base year is 2015
+IDN,2007-04-01,2007-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2007,2007,,48.416415,X,base year is 2015
+IDN,2008-04-01,2008-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2008,2008,,56.035487,X,base year is 2015
+IDN,2009-04-01,2009-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2009,2009,,60.997327,X,base year is 2015
+IDN,2010-04-01,2010-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2010,2010,,64.578393,X,base year is 2015
+IDN,2011-04-01,2011-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2011,2011,,71.730595,X,base year is 2015
+IDN,2012-04-01,2012-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2012,2012,,76.553357,X,base year is 2015
+IDN,2013-04-01,2013-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2013,2013,,85.216602,X,base year is 2015
+IDN,2014-04-01,2014-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2014,2014,,90.975326,X,base year is 2015
+IDN,2015-04-01,2015-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2015,2015,,96.694980,X,base year is 2015
+IDN,2016-04-01,2016-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2016,2016,,105.321345,X,base year is 2015
+IDN,2017-04-01,2017-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2017,2017,,108.267123,X,base year is 2015
+IDN,2018-04-01,2018-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2018,2018,,113.846130,X,base year is 2015
+IDN,2019-04-01,2019-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2019,2019,,113.767993,X,base year is 2015
+IDN,2020-04-01,2020-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2020,2020,,122.305983,X,base year is 2015
+IDN,2021-04-01,2021-04-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7004,April,2021,2021,,125.160665,X,base year is 2015
+IDN,2000-05-01,2000-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2000,2000,,27.148559,X,base year is 2015
+IDN,2001-05-01,2001-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2001,2001,,29.438250,X,base year is 2015
+IDN,2002-05-01,2002-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2002,2002,,32.567338,X,base year is 2015
+IDN,2003-05-01,2003-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2003,2003,,33.128583,X,base year is 2015
+IDN,2004-05-01,2004-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2004,2004,,35.413320,X,base year is 2015
+IDN,2005-05-01,2005-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2005,2005,,37.370238,X,base year is 2015
+IDN,2006-05-01,2006-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2006,2006,,43.558873,X,base year is 2015
+IDN,2007-05-01,2007-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2007,2007,,48.227674,X,base year is 2015
+IDN,2008-05-01,2008-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2008,2008,,56.999046,X,base year is 2015
+IDN,2009-05-01,2009-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2009,2009,,60.843357,X,base year is 2015
+IDN,2010-05-01,2010-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2010,2010,,64.896264,X,base year is 2015
+IDN,2011-05-01,2011-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2011,2011,,71.526953,X,base year is 2015
+IDN,2012-05-01,2012-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2012,2012,,76.439128,X,base year is 2015
+IDN,2013-05-01,2013-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2013,2013,,84.716523,X,base year is 2015
+IDN,2014-05-01,2014-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2014,2014,,90.842492,X,base year is 2015
+IDN,2015-05-01,2015-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2015,2015,,98.038943,X,base year is 2015
+IDN,2016-05-01,2016-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2016,2016,,105.633894,X,base year is 2015
+IDN,2017-05-01,2017-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2017,2017,,109.196957,X,base year is 2015
+IDN,2018-05-01,2018-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2018,2018,,114.080542,X,base year is 2015
+IDN,2019-05-01,2019-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2019,2019,,114.393092,X,base year is 2015
+IDN,2020-05-01,2020-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2020,2020,,121.917747,X,base year is 2015
+IDN,2021-05-01,2021-05-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7005,May,2021,2021,,125.640252,X,base year is 2015
+IDN,2000-06-01,2000-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2000,2000,,27.188292,X,base year is 2015
+IDN,2001-06-01,2001-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2001,2001,,29.835594,X,base year is 2015
+IDN,2002-06-01,2002-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2002,2002,,32.468002,X,base year is 2015
+IDN,2003-06-01,2003-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2003,2003,,32.865346,X,base year is 2015
+IDN,2004-06-01,2004-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2004,2004,,35.741129,X,base year is 2015
+IDN,2005-06-01,2005-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2005,2005,,37.643414,X,base year is 2015
+IDN,2006-06-01,2006-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2006,2006,,44.040653,X,base year is 2015
+IDN,2007-06-01,2007-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2007,2007,,48.456148,X,base year is 2015
+IDN,2008-06-01,2008-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2008,2008,,57.833475,X,base year is 2015
+IDN,2009-06-01,2009-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2009,2009,,60.734090,X,base year is 2015
+IDN,2010-06-01,2010-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2010,2010,,66.972397,X,base year is 2015
+IDN,2011-06-01,2011-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2011,2011,,72.435878,X,base year is 2015
+IDN,2012-06-01,2012-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2012,2012,,77.641092,X,base year is 2015
+IDN,2013-06-01,2013-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2013,2013,,85.826074,X,base year is 2015
+IDN,2014-06-01,2014-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2014,2014,,91.741072,X,base year is 2015
+IDN,2015-06-01,2015-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2015,2015,,99.609504,X,base year is 2015
+IDN,2016-06-01,2016-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2016,2016,,107.345102,X,base year is 2015
+IDN,2017-06-01,2017-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2017,2017,,109.954890,X,base year is 2015
+IDN,2018-06-01,2018-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2018,2018,,115.088514,X,base year is 2015
+IDN,2019-06-01,2019-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2019,2019,,115.096328,X,base year is 2015
+IDN,2020-06-01,2020-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2020,2020,,122.488683,X,base year is 2015
+IDN,2021-06-01,2021-06-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7006,June,2021,2021,,124.749591,X,base year is 2015
+IDN,2000-07-01,2000-07-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2000,2000,,27.734636,X,base year is 2015
+IDN,2001-07-01,2001-07-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2001,2001,,30.322342,X,base year is 2015
+IDN,2002-07-01,2002-07-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2002,2002,,32.433239,X,base year is 2015
+IDN,2003-07-01,2003-07-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2003,2003,,32.631903,X,base year is 2015
+IDN,2004-07-01,2004-07-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2004,2004,,35.910000,X,base year is 2015
+IDN,2005-07-01,2005-07-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2005,2005,,38.418232,X,base year is 2015
+IDN,2006-07-01,2006-07-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2006,2006,,46.802199,X,base year is 2015
+IDN,2007-07-01,2007-07-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2007,2007,,49.111767,X,base year is 2015
+IDN,2008-07-01,2008-07-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2008,2008,,58.901339,X,base year is 2015
+IDN,2009-07-01,2009-07-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2009,2009,,61.429442,X,base year is 2015
+IDN,2010-07-01,2010-07-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2010,2010,,70.116378,X,base year is 2015
+IDN,2011-07-01,2011-07-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2011,2011,,73.766987,X,base year is 2015
+IDN,2012-07-01,2012-07-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2012,2012,,78.942407,X,base year is 2015
+IDN,2013-07-01,2013-07-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2013,2013,,90.608080,X,base year is 2015
+IDN,2014-07-01,2014-07-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2014,2014,,93.522604,X,base year is 2015
+IDN,2015-07-01,2015-07-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2015,2015,,101.625448,X,base year is 2015
+IDN,2016-07-01,2016-07-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2016,2016,,108.548417,X,base year is 2015
+IDN,2017-07-01,2017-07-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2017,2017,,110.181488,X,base year is 2015
+IDN,2018-07-01,2018-07-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2018,2018,,116.073045,X,base year is 2015
+IDN,2019-07-01,2019-07-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2019,2019,,115.330740,X,base year is 2015
+IDN,2020-07-01,2020-07-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7007,July,2020,2020,,121.598022,X,base year is 2015
+IDN,2000-08-01,2000-08-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2000,2000,,27.213124,X,base year is 2015
+IDN,2001-08-01,2001-08-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2001,2001,,29.612090,X,base year is 2015
+IDN,2002-08-01,2002-08-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2002,2002,,32.269330,X,base year is 2015
+IDN,2003-08-01,2003-08-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2003,2003,,32.597140,X,base year is 2015
+IDN,2004-08-01,2004-08-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2004,2004,,35.145113,X,base year is 2015
+IDN,2005-08-01,2005-08-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2005,2005,,38.477835,X,base year is 2015
+IDN,2006-08-01,2006-08-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2006,2006,,44.328730,X,base year is 2015
+IDN,2007-08-01,2007-08-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2007,2007,,49.499172,X,base year is 2015
+IDN,2008-08-01,2008-08-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2008,2008,,59.452653,X,base year is 2015
+IDN,2009-08-01,2009-08-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2009,2009,,62.224130,X,base year is 2015
+IDN,2010-08-01,2010-08-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2010,2010,,70.444188,X,base year is 2015
+IDN,2011-08-01,2011-08-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2011,2011,,74.556706,X,base year is 2015
+IDN,2012-08-01,2012-08-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2012,2012,,80.109623,X,base year is 2015
+IDN,2013-08-01,2013-08-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2013,2013,,92.218647,X,base year is 2015
+IDN,2014-08-01,2014-08-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2014,2014,,93.858594,X,base year is 2015
+IDN,2015-08-01,2015-08-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2015,2015,,102.547468,X,base year is 2015
+IDN,2016-08-01,2016-08-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2016,2016,,107.813926,X,base year is 2015
+IDN,2017-08-01,2017-08-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2017,2017,,109.439183,X,base year is 2015
+IDN,2018-08-01,2018-08-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2018,2018,,114.799406,X,base year is 2015
+IDN,2019-08-01,2019-08-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2019,2019,,115.643290,X,base year is 2015
+IDN,2020-08-01,2020-08-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7008,August,2020,2020,,120.547499,X,base year is 2015
+IDN,2000-09-01,2000-09-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2000,2000,,26.562474,X,base year is 2015
+IDN,2001-09-01,2001-09-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2001,2001,,29.393547,X,base year is 2015
+IDN,2002-09-01,2002-09-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2002,2002,,32.368666,X,base year is 2015
+IDN,2003-09-01,2003-09-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2003,2003,,32.468002,X,base year is 2015
+IDN,2004-09-01,2004-09-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2004,2004,,34.648433,X,base year is 2015
+IDN,2005-09-01,2005-09-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2005,2005,,40.067212,X,base year is 2015
+IDN,2006-09-01,2006-09-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2006,2006,,44.601906,X,base year is 2015
+IDN,2007-09-01,2007-09-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2007,2007,,50.393204,X,base year is 2015
+IDN,2008-09-01,2008-09-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2008,2008,,60.580120,X,base year is 2015
+IDN,2009-09-01,2009-09-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2009,2009,,63.734041,X,base year is 2015
+IDN,2010-09-01,2010-09-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2010,2010,,70.757097,X,base year is 2015
+IDN,2011-09-01,2011-09-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2011,2011,,74.487171,X,base year is 2015
+IDN,2012-09-01,2012-09-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2012,2012,,79.369506,X,base year is 2015
+IDN,2013-09-01,2013-09-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2013,2013,,89.592294,X,base year is 2015
+IDN,2014-09-01,2014-09-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2014,2014,,93.702319,X,base year is 2015
+IDN,2015-09-01,2015-09-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2015,2015,,101.445732,X,base year is 2015
+IDN,2016-09-01,2016-09-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2016,2016,,107.735789,X,base year is 2015
+IDN,2017-09-01,2017-09-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2017,2017,,108.860967,X,base year is 2015
+IDN,2018-09-01,2018-09-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2018,2018,,112.908482,X,base year is 2015
+IDN,2019-09-01,2019-09-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2019,2019,,115.955839,X,base year is 2015
+IDN,2020-09-01,2020-09-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7009,September,2020,2020,,120.102169,X,base year is 2015
+IDN,2000-10-01,2000-10-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2000,2000,,26.627039,X,base year is 2015
+IDN,2001-10-01,2001-10-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2001,2001,,29.736258,X,base year is 2015
+IDN,2002-10-01,2002-10-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2002,2002,,32.532575,X,base year is 2015
+IDN,2003-10-01,2003-10-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2003,2003,,33.064018,X,base year is 2015
+IDN,2004-10-01,2004-10-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2004,2004,,35.115311,X,base year is 2015
+IDN,2005-10-01,2005-10-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2005,2005,,41.428115,X,base year is 2015
+IDN,2006-10-01,2006-10-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2006,2006,,45.570434,X,base year is 2015
+IDN,2007-10-01,2007-10-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2007,2007,,51.331923,X,base year is 2015
+IDN,2008-10-01,2008-10-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2008,2008,,61.007258,X,base year is 2015
+IDN,2009-10-01,2009-10-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2009,2009,,63.912842,X,base year is 2015
+IDN,2010-10-01,2010-10-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2010,2010,,70.156119,X,base year is 2015
+IDN,2011-10-01,2011-10-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2011,2011,,74.228896,X,base year is 2015
+IDN,2012-10-01,2012-10-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2012,2012,,79.031796,X,base year is 2015
+IDN,2013-10-01,2013-10-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2013,2013,,89.303186,X,base year is 2015
+IDN,2014-10-01,2014-10-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2014,2014,,93.936732,X,base year is 2015
+IDN,2015-10-01,2015-10-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2015,2015,,100.375250,X,base year is 2015
+IDN,2016-10-01,2016-10-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2016,2016,,107.509191,X,base year is 2015
+IDN,2017-10-01,2017-10-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2017,2017,,108.368701,X,base year is 2015
+IDN,2018-10-01,2018-10-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2018,2018,,113.142894,X,base year is 2015
+IDN,2019-10-01,2019-10-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2019,2019,,116.502800,X,base year is 2015
+IDN,2020-10-01,2020-10-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7010,October,2020,2020,,120.456150,X,base year is 2015
+IDN,2000-11-01,2000-11-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2000,2000,,27.242926,X,base year is 2015
+IDN,2001-11-01,2001-11-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2001,2001,,31.166703,X,base year is 2015
+IDN,2002-11-01,2002-11-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2002,2002,,34.186516,X,base year is 2015
+IDN,2003-11-01,2003-11-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2003,2003,,33.888508,X,base year is 2015
+IDN,2004-11-01,2004-11-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2004,2004,,35.910000,X,base year is 2015
+IDN,2005-11-01,2005-11-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2005,2005,,42.451276,X,base year is 2015
+IDN,2006-11-01,2006-11-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2006,2006,,45.868442,X,base year is 2015
+IDN,2007-11-01,2007-11-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2007,2007,,51.351793,X,base year is 2015
+IDN,2008-11-01,2008-11-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2008,2008,,60.599983,X,base year is 2015
+IDN,2009-11-01,2009-11-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2009,2009,,63.386361,X,base year is 2015
+IDN,2010-11-01,2010-11-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2010,2010,,71.204113,X,base year is 2015
+IDN,2011-11-01,2011-11-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2011,2011,,74.665973,X,base year is 2015
+IDN,2012-11-01,2012-11-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2012,2012,,78.927483,X,base year is 2015
+IDN,2013-11-01,2013-11-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2013,2013,,88.873431,X,base year is 2015
+IDN,2014-11-01,2014-11-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2014,2014,,95.952675,X,base year is 2015
+IDN,2015-11-01,2015-11-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2015,2015,,100.711240,X,base year is 2015
+IDN,2016-11-01,2016-11-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2016,2016,,109.298536,X,base year is 2015
+IDN,2017-11-01,2017-11-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2017,2017,,108.767202,X,base year is 2015
+IDN,2018-11-01,2018-11-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2018,2018,,113.377306,X,base year is 2015
+IDN,2019-11-01,2019-11-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2019,2019,,116.815350,X,base year is 2015
+IDN,2020-11-01,2020-11-30,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7011,November,2020,2020,,121.495254,X,base year is 2015
+IDN,2000-12-01,2000-12-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2000,2000,,28.628661,X,base year is 2015
+IDN,2001-12-01,2001-12-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2001,2001,,32.075628,X,base year is 2015
+IDN,2002-12-01,2002-12-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2002,2002,,34.981204,X,base year is 2015
+IDN,2003-12-01,2003-12-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2003,2003,,34.549097,X,base year is 2015
+IDN,2004-12-01,2004-12-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2004,2004,,36.769253,X,base year is 2015
+IDN,2005-12-01,2005-12-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2005,2005,,41.880100,X,base year is 2015
+IDN,2006-12-01,2006-12-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2006,2006,,47.298879,X,base year is 2015
+IDN,2007-12-01,2007-12-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2007,2007,,52.623299,X,base year is 2015
+IDN,2008-12-01,2008-12-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2008,2008,,60.942693,X,base year is 2015
+IDN,2009-12-01,2009-12-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2009,2009,,63.306887,X,base year is 2015
+IDN,2010-12-01,2010-12-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2010,2010,,73.205734,X,base year is 2015
+IDN,2011-12-01,2011-12-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2011,2011,,75.872914,X,base year is 2015
+IDN,2012-12-01,2012-12-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2012,2012,,80.184088,X,base year is 2015
+IDN,2013-12-01,2013-12-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2013,2013,,89.576667,X,base year is 2015
+IDN,2014-12-01,2014-12-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2014,2014,,99.046915,X,base year is 2015
+IDN,2015-12-01,2015-12-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2015,2015,,103.930500,X,base year is 2015
+IDN,2016-12-01,2016-12-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2016,2016,,109.845498,X,base year is 2015
+IDN,2017-12-01,2017-12-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2017,2017,,111.228529,X,base year is 2015
+IDN,2018-12-01,2018-12-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2018,2018,,115.018191,X,base year is 2015
+IDN,2019-12-01,2019-12-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2019,2019,,117.127899,X,base year is 2015
+IDN,2020-12-01,2020-12-31,101,Indonesia,23013,"Consumer Prices, Food Indices (2015 = 100)",7012,December,2020,2020,,123.310831,X,base year is 2015
+IDN,2000-01-01,2000-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2000,2000,,32.453700,X,base year is 2015
+IDN,2001-01-01,2001-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2001,2001,,35.140470,X,base year is 2015
+IDN,2002-01-01,2002-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2002,2002,,40.257830,X,base year is 2015
+IDN,2003-01-01,2003-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2003,2003,,43.744380,X,base year is 2015
+IDN,2004-01-01,2004-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2004,2004,,45.862560,X,base year is 2015
+IDN,2005-01-01,2005-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2005,2005,,49.180410,X,base year is 2015
+IDN,2006-01-01,2006-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2006,2006,,57.571880,X,base year is 2015
+IDN,2007-01-01,2007-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2007,2007,,61.177150,X,base year is 2015
+IDN,2008-01-01,2008-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2008,2008,,65.682180,X,base year is 2015
+IDN,2009-01-01,2009-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2009,2009,,71.093220,X,base year is 2015
+IDN,2010-01-01,2010-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2010,2010,,73.736240,X,base year is 2015
+IDN,2011-01-01,2011-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2011,2011,,78.909840,X,base year is 2015
+IDN,2012-01-01,2012-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2012,2012,,81.790310,X,base year is 2015
+IDN,2013-01-01,2013-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2013,2013,,85.167400,X,base year is 2015
+IDN,2014-01-01,2014-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2014,2014,,92.167800,X,base year is 2015
+IDN,2015-01-01,2015-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2015,2015,,98.578610,X,base year is 2015
+IDN,2016-01-01,2016-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2016,2016,,102.655900,X,base year is 2015
+IDN,2017-01-01,2017-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2017,2017,,106.243300,X,base year is 2015
+IDN,2018-01-01,2018-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2018,2018,,109.697900,X,base year is 2015
+IDN,2019-01-01,2019-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2019,2019,,112.795300,X,base year is 2015
+IDN,2020-01-01,2020-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2020,2020,,115.818000,X,base year is 2015
+IDN,2021-01-01,2021-01-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7001,January,2021,2021,,117.617800,X,base year is 2015
+IDN,2000-02-01,2000-02-29,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2000,2000,,32.478690,X,base year is 2015
+IDN,2001-02-01,2001-02-28,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2001,2001,,35.440380,X,base year is 2015
+IDN,2002-02-01,2002-02-28,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2002,2002,,40.713950,X,base year is 2015
+IDN,2003-02-01,2003-02-28,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2003,2003,,43.825610,X,base year is 2015
+IDN,2004-02-01,2004-02-29,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2004,2004,,45.818820,X,base year is 2015
+IDN,2005-02-01,2005-02-28,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2005,2005,,49.099180,X,base year is 2015
+IDN,2006-02-01,2006-02-28,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2006,2006,,57.909290,X,base year is 2015
+IDN,2007-02-01,2007-02-28,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2007,2007,,61.558300,X,base year is 2015
+IDN,2008-02-01,2008-02-29,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2008,2008,,66.113310,X,base year is 2015
+IDN,2009-02-01,2009-02-28,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2009,2009,,71.243170,X,base year is 2015
+IDN,2010-02-01,2010-02-28,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2010,2010,,73.967430,X,base year is 2015
+IDN,2011-02-01,2011-02-28,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2011,2011,,79.016070,X,base year is 2015
+IDN,2012-02-01,2012-02-29,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2012,2012,,81.827800,X,base year is 2015
+IDN,2013-02-01,2013-02-28,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2013,2013,,85.765300,X,base year is 2015
+IDN,2014-02-01,2014-02-28,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2014,2014,,92.408620,X,base year is 2015
+IDN,2015-02-01,2015-02-28,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2015,2015,,98.221530,X,base year is 2015
+IDN,2016-02-01,2016-02-29,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2016,2016,,102.564600,X,base year is 2015
+IDN,2017-02-01,2017-02-28,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2017,2017,,106.492500,X,base year is 2015
+IDN,2018-02-01,2018-02-28,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2018,2018,,109.880600,X,base year is 2015
+IDN,2019-02-01,2019-02-28,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2019,2019,,112.704000,X,base year is 2015
+IDN,2020-02-01,2020-02-29,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2020,2020,,116.141900,X,base year is 2015
+IDN,2021-02-01,2021-02-28,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7002,February,2021,2021,,117.739900,X,base year is 2015
+IDN,2000-03-01,2000-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2000,2000,,32.328730,X,base year is 2015
+IDN,2001-03-01,2001-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2001,2001,,35.759050,X,base year is 2015
+IDN,2002-03-01,2002-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2002,2002,,40.838920,X,base year is 2015
+IDN,2003-03-01,2003-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2003,2003,,43.744380,X,base year is 2015
+IDN,2004-03-01,2004-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2004,2004,,45.987530,X,base year is 2015
+IDN,2005-03-01,2005-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2005,2005,,50.055170,X,base year is 2015
+IDN,2006-03-01,2006-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2006,2006,,57.928040,X,base year is 2015
+IDN,2007-03-01,2007-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2007,2007,,61.702010,X,base year is 2015
+IDN,2008-03-01,2008-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2008,2008,,66.744390,X,base year is 2015
+IDN,2009-03-01,2009-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2009,2009,,71.399380,X,base year is 2015
+IDN,2010-03-01,2010-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2010,2010,,73.848720,X,base year is 2015
+IDN,2011-03-01,2011-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2011,2011,,78.759880,X,base year is 2015
+IDN,2012-03-01,2012-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2012,2012,,81.884030,X,base year is 2015
+IDN,2013-03-01,2013-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2013,2013,,86.172200,X,base year is 2015
+IDN,2014-03-01,2014-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2014,2014,,92.483360,X,base year is 2015
+IDN,2015-03-01,2015-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2015,2015,,98.387610,X,base year is 2015
+IDN,2016-03-01,2016-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2016,2016,,102.763900,X,base year is 2015
+IDN,2017-03-01,2017-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2017,2017,,106.475900,X,base year is 2015
+IDN,2018-03-01,2018-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2018,2018,,110.096500,X,base year is 2015
+IDN,2019-03-01,2019-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2019,2019,,112.828500,X,base year is 2015
+IDN,2020-03-01,2020-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2020,2020,,116.252300,X,base year is 2015
+IDN,2021-03-01,2021-03-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7003,March,2021,2021,,117.839800,X,base year is 2015
+IDN,2000-04-01,2000-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2000,2000,,32.509930,X,base year is 2015
+IDN,2001-04-01,2001-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2001,2001,,35.927750,X,base year is 2015
+IDN,2002-04-01,2002-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2002,2002,,40.757690,X,base year is 2015
+IDN,2003-04-01,2003-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2003,2003,,43.869350,X,base year is 2015
+IDN,2004-04-01,2004-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2004,2004,,46.443650,X,base year is 2015
+IDN,2005-04-01,2005-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2005,2005,,50.217630,X,base year is 2015
+IDN,2006-04-01,2006-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2006,2006,,57.953030,X,base year is 2015
+IDN,2007-04-01,2007-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2007,2007,,61.602040,X,base year is 2015
+IDN,2008-04-01,2008-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2008,2008,,67.125540,X,base year is 2015
+IDN,2009-04-01,2009-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2009,2009,,71.180690,X,base year is 2015
+IDN,2010-04-01,2010-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2010,2010,,73.961190,X,base year is 2015
+IDN,2011-04-01,2011-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2011,2011,,78.516200,X,base year is 2015
+IDN,2012-04-01,2012-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2012,2012,,82.052740,X,base year is 2015
+IDN,2013-04-01,2013-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2013,2013,,86.213720,X,base year is 2015
+IDN,2014-04-01,2014-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2014,2014,,92.466750,X,base year is 2015
+IDN,2015-04-01,2015-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2015,2015,,98.744690,X,base year is 2015
+IDN,2016-04-01,2016-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2016,2016,,102.298900,X,base year is 2015
+IDN,2017-04-01,2017-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2017,2017,,106.567200,X,base year is 2015
+IDN,2018-04-01,2018-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2018,2018,,110.204400,X,base year is 2015
+IDN,2019-04-01,2019-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2019,2019,,113.326800,X,base year is 2015
+IDN,2020-04-01,2020-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2020,2020,,116.341100,X,base year is 2015
+IDN,2021-04-01,2021-04-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7004,April,2021,2021,,117.995200,X,base year is 2015
+IDN,2000-05-01,2000-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2000,2000,,32.784850,X,base year is 2015
+IDN,2001-05-01,2001-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2001,2001,,36.333890,X,base year is 2015
+IDN,2002-05-01,2002-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2002,2002,,41.088850,X,base year is 2015
+IDN,2003-05-01,2003-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2003,2003,,43.994320,X,base year is 2015
+IDN,2004-05-01,2004-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2004,2004,,46.856040,X,base year is 2015
+IDN,2005-05-01,2005-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2005,2005,,50.323850,X,base year is 2015
+IDN,2006-05-01,2006-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2006,2006,,58.171720,X,base year is 2015
+IDN,2007-05-01,2007-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2007,2007,,61.664520,X,base year is 2015
+IDN,2008-05-01,2008-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2008,2008,,68.069030,X,base year is 2015
+IDN,2009-05-01,2009-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2009,2009,,71.211930,X,base year is 2015
+IDN,2010-05-01,2010-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2010,2010,,74.173630,X,base year is 2015
+IDN,2011-05-01,2011-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2011,2011,,78.609920,X,base year is 2015
+IDN,2012-05-01,2012-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2012,2012,,82.108980,X,base year is 2015
+IDN,2013-05-01,2013-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2013,2013,,86.296760,X,base year is 2015
+IDN,2014-05-01,2014-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2014,2014,,92.616230,X,base year is 2015
+IDN,2015-05-01,2015-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2015,2015,,99.234630,X,base year is 2015
+IDN,2016-05-01,2016-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2016,2016,,102.539700,X,base year is 2015
+IDN,2017-05-01,2017-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2017,2017,,106.982400,X,base year is 2015
+IDN,2018-05-01,2018-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2018,2018,,110.436900,X,base year is 2015
+IDN,2019-05-01,2019-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2019,2019,,114.099100,X,base year is 2015
+IDN,2020-05-01,2020-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2020,2020,,116.418800,X,base year is 2015
+IDN,2021-05-01,2021-05-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7005,May,2021,2021,,118.372700,X,base year is 2015
+IDN,2000-06-01,2000-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2000,2000,,32.947310,X,base year is 2015
+IDN,2001-06-01,2001-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2001,2001,,36.939980,X,base year is 2015
+IDN,2002-06-01,2002-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2002,2002,,41.213820,X,base year is 2015
+IDN,2003-06-01,2003-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2003,2003,,44.075540,X,base year is 2015
+IDN,2004-06-01,2004-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2004,2004,,47.062230,X,base year is 2015
+IDN,2005-06-01,2005-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2005,2005,,50.573780,X,base year is 2015
+IDN,2006-06-01,2006-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2006,2006,,58.434150,X,base year is 2015
+IDN,2007-06-01,2007-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2007,2007,,61.808230,X,base year is 2015
+IDN,2008-06-01,2008-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2008,2008,,68.781340,X,base year is 2015
+IDN,2009-06-01,2009-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2009,2009,,71.293160,X,base year is 2015
+IDN,2010-06-01,2010-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2010,2010,,74.892180,X,base year is 2015
+IDN,2011-06-01,2011-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2011,2011,,79.041050,X,base year is 2015
+IDN,2012-06-01,2012-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2012,2012,,82.621340,X,base year is 2015
+IDN,2013-06-01,2013-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2013,2013,,87.177000,X,base year is 2015
+IDN,2014-06-01,2014-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2014,2014,,93.014820,X,base year is 2015
+IDN,2015-06-01,2015-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2015,2015,,99.766100,X,base year is 2015
+IDN,2016-06-01,2016-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2016,2016,,103.212300,X,base year is 2015
+IDN,2017-06-01,2017-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2017,2017,,107.721500,X,base year is 2015
+IDN,2018-06-01,2018-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2018,2018,,111.084700,X,base year is 2015
+IDN,2019-06-01,2019-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2019,2019,,114.730200,X,base year is 2015
+IDN,2020-06-01,2020-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2020,2020,,116.629800,X,base year is 2015
+IDN,2021-06-01,2021-06-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7006,June,2021,2021,,118.183900,X,base year is 2015
+IDN,2000-07-01,2000-07-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2000,2000,,33.372200,X,base year is 2015
+IDN,2001-07-01,2001-07-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2001,2001,,37.721020,X,base year is 2015
+IDN,2002-07-01,2002-07-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2002,2002,,41.501240,X,base year is 2015
+IDN,2003-07-01,2003-07-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2003,2003,,44.075540,X,base year is 2015
+IDN,2004-07-01,2004-07-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2004,2004,,47.274670,X,base year is 2015
+IDN,2005-07-01,2005-07-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2005,2005,,50.967420,X,base year is 2015
+IDN,2006-07-01,2006-07-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2006,2006,,58.696580,X,base year is 2015
+IDN,2007-07-01,2007-07-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2007,2007,,62.251860,X,base year is 2015
+IDN,2008-07-01,2008-07-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2008,2008,,69.724840,X,base year is 2015
+IDN,2009-07-01,2009-07-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2009,2009,,71.611820,X,base year is 2015
+IDN,2010-07-01,2010-07-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2010,2010,,76.066860,X,base year is 2015
+IDN,2011-07-01,2011-07-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2011,2011,,79.572170,X,base year is 2015
+IDN,2012-07-01,2012-07-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2012,2012,,83.202430,X,base year is 2015
+IDN,2013-07-01,2013-07-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2013,2013,,89.809420,X,base year is 2015
+IDN,2014-07-01,2014-07-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2014,2014,,93.878460,X,base year is 2015
+IDN,2015-07-01,2015-07-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2015,2015,,100.696200,X,base year is 2015
+IDN,2016-07-01,2016-07-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2016,2016,,103.926500,X,base year is 2015
+IDN,2017-07-01,2017-07-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2017,2017,,107.954000,X,base year is 2015
+IDN,2018-07-01,2018-07-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2018,2018,,111.391900,X,base year is 2015
+IDN,2019-07-01,2019-07-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2019,2019,,115.087300,X,base year is 2015
+IDN,2020-07-01,2020-07-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7007,July,2020,2020,,116.507700,X,base year is 2015
+IDN,2000-08-01,2000-08-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2000,2000,,33.540900,X,base year is 2015
+IDN,2001-08-01,2001-08-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2001,2001,,37.646040,X,base year is 2015
+IDN,2002-08-01,2002-08-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2002,2002,,41.626210,X,base year is 2015
+IDN,2003-08-01,2003-08-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2003,2003,,44.369210,X,base year is 2015
+IDN,2004-08-01,2004-08-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2004,2004,,47.312160,X,base year is 2015
+IDN,2005-08-01,2005-08-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2005,2005,,51.248600,X,base year is 2015
+IDN,2006-08-01,2006-08-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2006,2006,,58.884030,X,base year is 2015
+IDN,2007-08-01,2007-08-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2007,2007,,62.714240,X,base year is 2015
+IDN,2008-08-01,2008-08-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2008,2008,,70.080990,X,base year is 2015
+IDN,2009-08-01,2009-08-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2009,2009,,72.011710,X,base year is 2015
+IDN,2010-08-01,2010-08-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2010,2010,,76.647960,X,base year is 2015
+IDN,2011-08-01,2011-08-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2011,2011,,80.315710,X,base year is 2015
+IDN,2012-08-01,2012-08-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2012,2012,,83.995960,X,base year is 2015
+IDN,2013-08-01,2013-08-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2013,2013,,90.697970,X,base year is 2015
+IDN,2014-08-01,2014-08-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2014,2014,,94.318570,X,base year is 2015
+IDN,2015-08-01,2015-08-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2015,2015,,101.086500,X,base year is 2015
+IDN,2016-08-01,2016-08-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2016,2016,,103.909900,X,base year is 2015
+IDN,2017-08-01,2017-08-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2017,2017,,107.879300,X,base year is 2015
+IDN,2018-08-01,2018-08-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2018,2018,,111.333800,X,base year is 2015
+IDN,2019-08-01,2019-08-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2019,2019,,115.220100,X,base year is 2015
+IDN,2020-08-01,2020-08-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7008,August,2020,2020,,116.452200,X,base year is 2015
+IDN,2000-09-01,2000-09-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2000,2000,,33.522160,X,base year is 2015
+IDN,2001-09-01,2001-09-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2001,2001,,37.883470,X,base year is 2015
+IDN,2002-09-01,2002-09-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2002,2002,,41.876140,X,base year is 2015
+IDN,2003-09-01,2003-09-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2003,2003,,44.531670,X,base year is 2015
+IDN,2004-09-01,2004-09-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2004,2004,,47.312160,X,base year is 2015
+IDN,2005-09-01,2005-09-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2005,2005,,51.598500,X,base year is 2015
+IDN,2006-09-01,2006-09-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2006,2006,,59.108960,X,base year is 2015
+IDN,2007-09-01,2007-09-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2007,2007,,63.220350,X,base year is 2015
+IDN,2008-09-01,2008-09-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2008,2008,,70.762050,X,base year is 2015
+IDN,2009-09-01,2009-09-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2009,2009,,72.767760,X,base year is 2015
+IDN,2010-09-01,2010-09-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2010,2010,,76.985370,X,base year is 2015
+IDN,2011-09-01,2011-09-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2011,2011,,80.534400,X,base year is 2015
+IDN,2012-09-01,2012-09-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2012,2012,,84.008460,X,base year is 2015
+IDN,2013-09-01,2013-09-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2013,2013,,90.473750,X,base year is 2015
+IDN,2014-09-01,2014-09-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2014,2014,,94.576000,X,base year is 2015
+IDN,2015-09-01,2015-09-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2015,2015,,101.036600,X,base year is 2015
+IDN,2016-09-01,2016-09-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2016,2016,,104.142400,X,base year is 2015
+IDN,2017-09-01,2017-09-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2017,2017,,108.020400,X,base year is 2015
+IDN,2018-09-01,2018-09-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2018,2018,,111.134500,X,base year is 2015
+IDN,2019-09-01,2019-09-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2019,2019,,114.904600,X,base year is 2015
+IDN,2020-09-01,2020-09-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7009,September,2020,2020,,116.396600,X,base year is 2015
+IDN,2000-10-01,2000-10-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2000,2000,,33.909550,X,base year is 2015
+IDN,2001-10-01,2001-10-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2001,2001,,38.139650,X,base year is 2015
+IDN,2002-10-01,2002-10-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2002,2002,,42.082330,X,base year is 2015
+IDN,2003-10-01,2003-10-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2003,2003,,44.781600,X,base year is 2015
+IDN,2004-10-01,2004-10-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2004,2004,,47.562100,X,base year is 2015
+IDN,2005-10-01,2005-10-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2005,2005,,56.091030,X,base year is 2015
+IDN,2006-10-01,2006-10-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2006,2006,,59.621330,X,base year is 2015
+IDN,2007-10-01,2007-10-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2007,2007,,63.720210,X,base year is 2015
+IDN,2008-10-01,2008-10-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2008,2008,,71.080720,X,base year is 2015
+IDN,2009-10-01,2009-10-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2009,2009,,72.905220,X,base year is 2015
+IDN,2010-10-01,2010-10-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2010,2010,,77.035350,X,base year is 2015
+IDN,2011-10-01,2011-10-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2011,2011,,80.440680,X,base year is 2015
+IDN,2012-10-01,2012-10-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2012,2012,,84.145920,X,base year is 2015
+IDN,2013-10-01,2013-10-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2013,2013,,90.639830,X,base year is 2015
+IDN,2014-10-01,2014-10-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2014,2014,,95.016120,X,base year is 2015
+IDN,2015-10-01,2015-10-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2015,2015,,100.953600,X,base year is 2015
+IDN,2016-10-01,2016-10-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2016,2016,,104.291900,X,base year is 2015
+IDN,2017-10-01,2017-10-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2017,2017,,108.028700,X,base year is 2015
+IDN,2018-10-01,2018-10-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2018,2018,,111.441700,X,base year is 2015
+IDN,2019-10-01,2019-10-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2019,2019,,114.929500,X,base year is 2015
+IDN,2020-10-01,2020-10-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7010,October,2020,2020,,116.474400,X,base year is 2015
+IDN,2000-11-01,2000-11-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2000,2000,,34.359430,X,base year is 2015
+IDN,2001-11-01,2001-11-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2001,2001,,38.795730,X,base year is 2015
+IDN,2002-11-01,2002-11-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2002,2002,,42.832130,X,base year is 2015
+IDN,2003-11-01,2003-11-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2003,2003,,45.200240,X,base year is 2015
+IDN,2004-11-01,2004-11-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2004,2004,,48.018220,X,base year is 2015
+IDN,2005-11-01,2005-11-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2005,2005,,56.828330,X,base year is 2015
+IDN,2006-11-01,2006-11-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2006,2006,,59.821270,X,base year is 2015
+IDN,2007-11-01,2007-11-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2007,2007,,63.838930,X,base year is 2015
+IDN,2008-11-01,2008-11-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2008,2008,,71.168190,X,base year is 2015
+IDN,2009-11-01,2009-11-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2009,2009,,72.886470,X,base year is 2015
+IDN,2010-11-01,2010-11-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2010,2010,,77.497730,X,base year is 2015
+IDN,2011-11-01,2011-11-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2011,2011,,80.715610,X,base year is 2015
+IDN,2012-11-01,2012-11-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2012,2012,,84.202160,X,base year is 2015
+IDN,2013-11-01,2013-11-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2013,2013,,90.789310,X,base year is 2015
+IDN,2014-11-01,2014-11-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2014,2014,,96.444440,X,base year is 2015
+IDN,2015-11-01,2015-11-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2015,2015,,101.161200,X,base year is 2015
+IDN,2016-11-01,2016-11-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2016,2016,,104.781800,X,base year is 2015
+IDN,2017-11-01,2017-11-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2017,2017,,108.244600,X,base year is 2015
+IDN,2018-11-01,2018-11-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2018,2018,,111.740700,X,base year is 2015
+IDN,2019-11-01,2019-11-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2019,2019,,115.095600,X,base year is 2015
+IDN,2020-11-01,2020-11-30,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7011,November,2020,2020,,116.796300,X,base year is 2015
+IDN,2000-12-01,2000-12-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2000,2000,,35.028000,X,base year is 2015
+IDN,2001-12-01,2001-12-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2001,2001,,39.420560,X,base year is 2015
+IDN,2002-12-01,2002-12-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2002,2002,,43.331990,X,base year is 2015
+IDN,2003-12-01,2003-12-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2003,2003,,45.568890,X,base year is 2015
+IDN,2004-12-01,2004-12-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2004,2004,,48.518090,X,base year is 2015
+IDN,2005-12-01,2005-12-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2005,2005,,56.803340,X,base year is 2015
+IDN,2006-12-01,2006-12-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2006,2006,,60.552320,X,base year is 2015
+IDN,2007-12-01,2007-12-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2007,2007,,64.538740,X,base year is 2015
+IDN,2008-12-01,2008-12-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2008,2008,,71.143200,X,base year is 2015
+IDN,2009-12-01,2009-12-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2009,2009,,73.123910,X,base year is 2015
+IDN,2010-12-01,2010-12-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2010,2010,,78.210030,X,base year is 2015
+IDN,2011-12-01,2011-12-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2011,2011,,81.171730,X,base year is 2015
+IDN,2012-12-01,2012-12-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2012,2012,,84.658290,X,base year is 2015
+IDN,2013-12-01,2013-12-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2013,2013,,91.196210,X,base year is 2015
+IDN,2014-12-01,2014-12-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2014,2014,,98.819430,X,base year is 2015
+IDN,2015-12-01,2015-12-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2015,2015,,102.132800,X,base year is 2015
+IDN,2016-12-01,2016-12-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2016,2016,,105.221900,X,base year is 2015
+IDN,2017-12-01,2017-12-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2017,2017,,109.016900,X,base year is 2015
+IDN,2018-12-01,2018-12-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2018,2018,,112.429900,X,base year is 2015
+IDN,2019-12-01,2019-12-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2019,2019,,115.485900,X,base year is 2015
+IDN,2020-12-01,2020-12-31,101,Indonesia,23012,"Consumer Prices, General Indices (2015 = 100)",7012,December,2020,2020,,117.318100,X,base year is 2015
+IDN,2001-01-01,2001-01-31,101,Indonesia,23014,Food price inflation,7001,January,2001,2001,%,0.841361,Fc,
+IDN,2002-01-01,2002-01-31,101,Indonesia,23014,Food price inflation,7001,January,2002,2002,%,15.365896,Fc,
+IDN,2003-01-01,2003-01-31,101,Indonesia,23014,Food price inflation,7001,January,2003,2003,%,4.505036,Fc,
+IDN,2004-01-01,2004-01-31,101,Indonesia,23014,Food price inflation,7001,January,2004,2004,%,1.730125,Fc,
+IDN,2005-01-01,2005-01-31,101,Indonesia,23014,Food price inflation,7001,January,2005,2005,%,8.177430,Fc,
+IDN,2006-01-01,2006-01-31,101,Indonesia,23014,Food price inflation,7001,January,2006,2006,%,15.210267,Fc,
+IDN,2007-01-01,2007-01-31,101,Indonesia,23014,Food price inflation,7001,January,2007,2007,%,11.189447,Fc,
+IDN,2008-01-01,2008-01-31,101,Indonesia,23014,Food price inflation,7001,January,2008,2008,%,11.352031,Fc,
+IDN,2009-01-01,2009-01-31,101,Indonesia,23014,Food price inflation,7001,January,2009,2009,%,13.547002,Fc,
+IDN,2010-01-01,2010-01-31,101,Indonesia,23014,Food price inflation,7001,January,2010,2010,%,4.877467,Fc,
+IDN,2011-01-01,2011-01-31,101,Indonesia,23014,Food price inflation,7001,January,2011,2011,%,16.180784,Fc,
+IDN,2012-01-01,2012-01-31,101,Indonesia,23014,Food price inflation,7001,January,2012,2012,%,3.285980,Fc,
+IDN,2013-01-01,2013-01-31,101,Indonesia,23014,Food price inflation,7001,January,2013,2013,%,6.905036,Fc,
+IDN,2014-01-01,2014-01-31,101,Indonesia,23014,Food price inflation,7001,January,2014,2014,%,11.425329,Fc,
+IDN,2015-01-01,2015-01-31,101,Indonesia,23014,Food price inflation,7001,January,2015,2015,%,8.242085,Fc,
+IDN,2016-01-01,2016-01-31,101,Indonesia,23014,Food price inflation,7001,January,2016,2016,%,6.595044,Fc,
+IDN,2017-01-01,2017-01-31,101,Indonesia,23014,Food price inflation,7001,January,2017,2017,%,4.105054,Fc,
+IDN,2018-01-01,2018-01-31,101,Indonesia,23014,Food price inflation,7001,January,2018,2018,%,2.946788,Fc,
+IDN,2019-01-01,2019-01-31,101,Indonesia,23014,Food price inflation,7001,January,2019,2019,%,2.004393,Fc,
+IDN,2020-01-01,2020-01-31,101,Indonesia,23014,Food price inflation,7001,January,2020,2020,%,4.134317,Fc,
+IDN,2021-01-01,2021-01-31,101,Indonesia,23014,Food price inflation,7001,January,2021,2021,%,2.814532,Fc,
+IDN,2001-02-01,2001-02-28,101,Indonesia,23014,Food price inflation,7002,February,2001,2001,%,2.743567,Fc,
+IDN,2002-02-01,2002-02-28,101,Indonesia,23014,Food price inflation,7002,February,2002,2002,%,17.031833,Fc,
+IDN,2003-02-01,2003-02-28,101,Indonesia,23014,Food price inflation,7002,February,2003,2003,%,0.672812,Fc,
+IDN,2004-02-01,2004-02-29,101,Indonesia,23014,Food price inflation,7002,February,2004,2004,%,1.060596,Fc,
+IDN,2005-02-01,2005-02-28,101,Indonesia,23014,Food price inflation,7002,February,2005,2005,%,8.122472,Fc,
+IDN,2006-02-01,2006-02-28,101,Indonesia,23014,Food price inflation,7002,February,2006,2006,%,18.308743,Fc,
+IDN,2007-02-01,2007-02-28,101,Indonesia,23014,Food price inflation,7002,February,2007,2007,%,10.822649,Fc,
+IDN,2008-02-01,2008-02-29,101,Indonesia,23014,Food price inflation,7002,February,2008,2008,%,12.179289,Fc,
+IDN,2009-02-01,2009-02-28,101,Indonesia,23014,Food price inflation,7002,February,2009,2009,%,12.818668,Fc,
+IDN,2010-02-01,2010-02-28,101,Indonesia,23014,Food price inflation,7002,February,2010,2010,%,4.791654,Fc,
+IDN,2011-02-01,2011-02-28,101,Indonesia,23014,Food price inflation,7002,February,2011,2011,%,14.803497,Fc,
+IDN,2012-02-01,2012-02-29,101,Indonesia,23014,Food price inflation,7002,February,2012,2012,%,2.870661,Fc,
+IDN,2013-02-01,2013-02-28,101,Indonesia,23014,Food price inflation,7002,February,2013,2013,%,9.853486,Fc,
+IDN,2014-02-01,2014-02-28,101,Indonesia,23014,Food price inflation,7002,February,2014,2014,%,9.624478,Fc,
+IDN,2015-02-01,2015-02-28,101,Indonesia,23014,Food price inflation,7002,February,2015,2015,%,6.275903,Fc,
+IDN,2016-02-01,2016-02-29,101,Indonesia,23014,Food price inflation,7002,February,2016,2016,%,7.552726,Fc,
+IDN,2017-02-01,2017-02-28,101,Indonesia,23014,Food price inflation,7002,February,2017,2017,%,4.388042,Fc,
+IDN,2018-02-01,2018-02-28,101,Indonesia,23014,Food price inflation,7002,February,2018,2018,%,3.402566,Fc,
+IDN,2019-02-01,2019-02-28,101,Indonesia,23014,Food price inflation,7002,February,2019,2019,%,0.706108,Fc,
+IDN,2020-02-01,2020-02-29,101,Indonesia,23014,Food price inflation,7002,February,2020,2020,%,6.344460,Fc,
+IDN,2021-02-01,2021-02-28,101,Indonesia,23014,Food price inflation,7002,February,2021,2021,%,1.917680,Fc,
+IDN,2001-03-01,2001-03-31,101,Indonesia,23014,Food price inflation,7003,March,2001,2001,%,6.137514,Fc,
+IDN,2002-03-01,2002-03-31,101,Indonesia,23014,Food price inflation,7003,March,2002,2002,%,12.769209,Fc,
+IDN,2003-03-01,2003-03-31,101,Indonesia,23014,Food price inflation,7003,March,2003,2003,%,1.308257,Fc,
+IDN,2004-03-01,2004-03-31,101,Indonesia,23014,Food price inflation,7003,March,2004,2004,%,3.354609,Fc,
+IDN,2005-03-01,2005-03-31,101,Indonesia,23014,Food price inflation,7003,March,2005,2005,%,8.143046,Fc,
+IDN,2006-03-01,2006-03-31,101,Indonesia,23014,Food price inflation,7003,March,2006,2006,%,17.131472,Fc,
+IDN,2007-03-01,2007-03-31,101,Indonesia,23014,Food price inflation,7003,March,2007,2007,%,11.972791,Fc,
+IDN,2008-03-01,2008-03-31,101,Indonesia,23014,Food price inflation,7003,March,2008,2008,%,13.618876,Fc,
+IDN,2009-03-01,2009-03-31,101,Indonesia,23014,Food price inflation,7003,March,2009,2009,%,10.925950,Fc,
+IDN,2010-03-01,2010-03-31,101,Indonesia,23014,Food price inflation,7003,March,2010,2010,%,4.113428,Fc,
+IDN,2011-03-01,2011-03-31,101,Indonesia,23014,Food price inflation,7003,March,2011,2011,%,13.604448,Fc,
+IDN,2012-03-01,2012-03-31,101,Indonesia,23014,Food price inflation,7003,March,2012,2012,%,4.564596,Fc,
+IDN,2013-03-01,2013-03-31,101,Indonesia,23014,Food price inflation,7003,March,2013,2013,%,12.067169,Fc,
+IDN,2014-03-01,2014-03-31,101,Indonesia,23014,Food price inflation,7003,March,2014,2014,%,7.340872,Fc,
+IDN,2015-03-01,2015-03-31,101,Indonesia,23014,Food price inflation,7003,March,2015,2015,%,5.963809,Fc,
+IDN,2016-03-01,2016-03-31,101,Indonesia,23014,Food price inflation,7003,March,2016,2016,%,9.091638,Fc,
+IDN,2017-03-01,2017-03-31,101,Indonesia,23014,Food price inflation,7003,March,2017,2017,%,2.991108,Fc,
+IDN,2018-03-01,2018-03-31,101,Indonesia,23014,Food price inflation,7003,March,2018,2018,%,4.238619,Fc,
+IDN,2019-03-01,2019-03-31,101,Indonesia,23014,Food price inflation,7003,March,2019,2019,%,-0.533954,Fc,
+IDN,2020-03-01,2020-03-31,101,Indonesia,23014,Food price inflation,7003,March,2020,2020,%,7.626127,Fc,
+IDN,2021-03-01,2021-03-31,101,Indonesia,23014,Food price inflation,7003,March,2021,2021,%,2.224091,Fc,
+IDN,2001-04-01,2001-04-30,101,Indonesia,23014,Food price inflation,7004,April,2001,2001,%,6.804464,Fc,
+IDN,2002-04-01,2002-04-30,101,Indonesia,23014,Food price inflation,7004,April,2002,2002,%,11.714337,Fc,
+IDN,2003-04-01,2003-04-30,101,Indonesia,23014,Food price inflation,7004,April,2003,2003,%,2.360873,Fc,
+IDN,2004-04-01,2004-04-30,101,Indonesia,23014,Food price inflation,7004,April,2004,2004,%,6.185421,Fc,
+IDN,2005-04-01,2005-04-30,101,Indonesia,23014,Food price inflation,7004,April,2005,2005,%,5.980258,Fc,
+IDN,2006-04-01,2006-04-30,101,Indonesia,23014,Food price inflation,7004,April,2006,2006,%,16.382736,Fc,
+IDN,2007-04-01,2007-04-30,101,Indonesia,23014,Food price inflation,7004,April,2007,2007,%,11.469422,Fc,
+IDN,2008-04-01,2008-04-30,101,Indonesia,23014,Food price inflation,7004,April,2008,2008,%,15.736548,Fc,
+IDN,2009-04-01,2009-04-30,101,Indonesia,23014,Food price inflation,7004,April,2009,2009,%,8.854816,Fc,
+IDN,2010-04-01,2010-04-30,101,Indonesia,23014,Food price inflation,7004,April,2010,2010,%,5.870858,Fc,
+IDN,2011-04-01,2011-04-30,101,Indonesia,23014,Food price inflation,7004,April,2011,2011,%,11.075224,Fc,
+IDN,2012-04-01,2012-04-30,101,Indonesia,23014,Food price inflation,7004,April,2012,2012,%,6.723439,Fc,
+IDN,2013-04-01,2013-04-30,101,Indonesia,23014,Food price inflation,7004,April,2013,2013,%,11.316610,Fc,
+IDN,2014-04-01,2014-04-30,101,Indonesia,23014,Food price inflation,7004,April,2014,2014,%,6.757748,Fc,
+IDN,2015-04-01,2015-04-30,101,Indonesia,23014,Food price inflation,7004,April,2015,2015,%,6.287039,Fc,
+IDN,2016-04-01,2016-04-30,101,Indonesia,23014,Food price inflation,7004,April,2016,2016,%,8.921212,Fc,
+IDN,2017-04-01,2017-04-30,101,Indonesia,23014,Food price inflation,7004,April,2017,2017,%,2.796943,Fc,
+IDN,2018-04-01,2018-04-30,101,Indonesia,23014,Food price inflation,7004,April,2018,2018,%,5.153002,Fc,
+IDN,2019-04-01,2019-04-30,101,Indonesia,23014,Food price inflation,7004,April,2019,2019,%,-0.068634,Fc,
+IDN,2020-04-01,2020-04-30,101,Indonesia,23014,Food price inflation,7004,April,2020,2020,%,7.504738,Fc,
+IDN,2021-04-01,2021-04-30,101,Indonesia,23014,Food price inflation,7004,April,2021,2021,%,2.334049,Fc,
+IDN,2001-05-01,2001-05-31,101,Indonesia,23014,Food price inflation,7005,May,2001,2001,%,8.433929,Fc,
+IDN,2002-05-01,2002-05-31,101,Indonesia,23014,Food price inflation,7005,May,2002,2002,%,10.629330,Fc,
+IDN,2003-05-01,2003-05-31,101,Indonesia,23014,Food price inflation,7005,May,2003,2003,%,1.723337,Fc,
+IDN,2004-05-01,2004-05-31,101,Indonesia,23014,Food price inflation,7005,May,2004,2004,%,6.896571,Fc,
+IDN,2005-05-01,2005-05-31,101,Indonesia,23014,Food price inflation,7005,May,2005,2005,%,5.525940,Fc,
+IDN,2006-05-01,2006-05-31,101,Indonesia,23014,Food price inflation,7005,May,2006,2006,%,16.560331,Fc,
+IDN,2007-05-01,2007-05-31,101,Indonesia,23014,Food price inflation,7005,May,2007,2007,%,10.718369,Fc,
+IDN,2008-05-01,2008-05-31,101,Indonesia,23014,Food price inflation,7005,May,2008,2008,%,18.187424,Fc,
+IDN,2009-05-01,2009-05-31,101,Indonesia,23014,Food price inflation,7005,May,2009,2009,%,6.744518,Fc,
+IDN,2010-05-01,2010-05-31,101,Indonesia,23014,Food price inflation,7005,May,2010,2010,%,6.661215,Fc,
+IDN,2011-05-01,2011-05-31,101,Indonesia,23014,Food price inflation,7005,May,2011,2011,%,10.217367,Fc,
+IDN,2012-05-01,2012-05-31,101,Indonesia,23014,Food price inflation,7005,May,2012,2012,%,6.867586,Fc,
+IDN,2013-05-01,2013-05-31,101,Indonesia,23014,Food price inflation,7005,May,2013,2013,%,10.828741,Fc,
+IDN,2014-05-01,2014-05-31,101,Indonesia,23014,Food price inflation,7005,May,2014,2014,%,7.231138,Fc,
+IDN,2015-05-01,2015-05-31,101,Indonesia,23014,Food price inflation,7005,May,2015,2015,%,7.921899,Fc,
+IDN,2016-05-01,2016-05-31,101,Indonesia,23014,Food price inflation,7005,May,2016,2016,%,7.746872,Fc,
+IDN,2017-05-01,2017-05-31,101,Indonesia,23014,Food price inflation,7005,May,2017,2017,%,3.373031,Fc,
+IDN,2018-05-01,2018-05-31,101,Indonesia,23014,Food price inflation,7005,May,2018,2018,%,4.472272,Fc,
+IDN,2019-05-01,2019-05-31,101,Indonesia,23014,Food price inflation,7005,May,2019,2019,%,0.273973,Fc,
+IDN,2020-05-01,2020-05-31,101,Indonesia,23014,Food price inflation,7005,May,2020,2020,%,6.577893,Fc,
+IDN,2021-05-01,2021-05-31,101,Indonesia,23014,Food price inflation,7005,May,2021,2021,%,3.053292,Fc,
+IDN,2001-06-01,2001-06-30,101,Indonesia,23014,Food price inflation,7006,June,2001,2001,%,9.736917,Fc,
+IDN,2002-06-01,2002-06-30,101,Indonesia,23014,Food price inflation,7006,June,2002,2002,%,8.823047,Fc,
+IDN,2003-06-01,2003-06-30,101,Indonesia,23014,Food price inflation,7006,June,2003,2003,%,1.223802,Fc,
+IDN,2004-06-01,2004-06-30,101,Indonesia,23014,Food price inflation,7006,June,2004,2004,%,8.750198,Fc,
+IDN,2005-06-01,2005-06-30,101,Indonesia,23014,Food price inflation,7006,June,2005,2005,%,5.322398,Fc,
+IDN,2006-06-01,2006-06-30,101,Indonesia,23014,Food price inflation,7006,June,2006,2006,%,16.994309,Fc,
+IDN,2007-06-01,2007-06-30,101,Indonesia,23014,Food price inflation,7006,June,2007,2007,%,10.025953,Fc,
+IDN,2008-06-01,2008-06-30,101,Indonesia,23014,Food price inflation,7006,June,2008,2008,%,19.352192,Fc,
+IDN,2009-06-01,2009-06-30,101,Indonesia,23014,Food price inflation,7006,June,2009,2009,%,5.015460,Fc,
+IDN,2010-06-01,2010-06-30,101,Indonesia,23014,Food price inflation,7006,June,2010,2010,%,10.271508,Fc,
+IDN,2011-06-01,2011-06-30,101,Indonesia,23014,Food price inflation,7006,June,2011,2011,%,8.157811,Fc,
+IDN,2012-06-01,2012-06-30,101,Indonesia,23014,Food price inflation,7006,June,2012,2012,%,7.185961,Fc,
+IDN,2013-06-01,2013-06-30,101,Indonesia,23014,Food price inflation,7006,June,2013,2013,%,10.542075,Fc,
+IDN,2014-06-01,2014-06-30,101,Indonesia,23014,Food price inflation,7006,June,2014,2014,%,6.891843,Fc,
+IDN,2015-06-01,2015-06-30,101,Indonesia,23014,Food price inflation,7006,June,2015,2015,%,8.576782,Fc,
+IDN,2016-06-01,2016-06-30,101,Indonesia,23014,Food price inflation,7006,June,2016,2016,%,7.765924,Fc,
+IDN,2017-06-01,2017-06-30,101,Indonesia,23014,Food price inflation,7006,June,2017,2017,%,2.431213,Fc,
+IDN,2018-06-01,2018-06-30,101,Indonesia,23014,Food price inflation,7006,June,2018,2018,%,4.668846,Fc,
+IDN,2019-06-01,2019-06-30,101,Indonesia,23014,Food price inflation,7006,June,2019,2019,%,0.006789,Fc,
+IDN,2020-06-01,2020-06-30,101,Indonesia,23014,Food price inflation,7006,June,2020,2020,%,6.422755,Fc,
+IDN,2021-06-01,2021-06-30,101,Indonesia,23014,Food price inflation,7006,June,2021,2021,%,1.845810,Fc,
+IDN,2001-07-01,2001-07-31,101,Indonesia,23014,Food price inflation,7007,July,2001,2001,%,9.330233,Fc,
+IDN,2002-07-01,2002-07-31,101,Indonesia,23014,Food price inflation,7007,July,2002,2002,%,6.961521,Fc,
+IDN,2003-07-01,2003-07-31,101,Indonesia,23014,Food price inflation,7007,July,2003,2003,%,0.612533,Fc,
+IDN,2004-07-01,2004-07-31,101,Indonesia,23014,Food price inflation,7007,July,2004,2004,%,10.045680,Fc,
+IDN,2005-07-01,2005-07-31,101,Indonesia,23014,Food price inflation,7007,July,2005,2005,%,6.984775,Fc,
+IDN,2006-07-01,2006-07-31,101,Indonesia,23014,Food price inflation,7007,July,2006,2006,%,21.822885,Fc,
+IDN,2007-07-01,2007-07-31,101,Indonesia,23014,Food price inflation,7007,July,2007,2007,%,4.934743,Fc,
+IDN,2008-07-01,2008-07-31,101,Indonesia,23014,Food price inflation,7007,July,2008,2008,%,19.933251,Fc,
+IDN,2009-07-01,2009-07-31,101,Indonesia,23014,Food price inflation,7007,July,2009,2009,%,4.292098,Fc,
+IDN,2010-07-01,2010-07-31,101,Indonesia,23014,Food price inflation,7007,July,2010,2010,%,14.141324,Fc,
+IDN,2011-07-01,2011-07-31,101,Indonesia,23014,Food price inflation,7007,July,2011,2011,%,5.206499,Fc,
+IDN,2012-07-01,2012-07-31,101,Indonesia,23014,Food price inflation,7007,July,2012,2012,%,7.015903,Fc,
+IDN,2013-07-01,2013-07-31,101,Indonesia,23014,Food price inflation,7007,July,2013,2013,%,14.777448,Fc,
+IDN,2014-07-01,2014-07-31,101,Indonesia,23014,Food price inflation,7007,July,2014,2014,%,3.216626,Fc,
+IDN,2015-07-01,2015-07-31,101,Indonesia,23014,Food price inflation,7007,July,2015,2015,%,8.664049,Fc,
+IDN,2016-07-01,2016-07-31,101,Indonesia,23014,Food price inflation,7007,July,2016,2016,%,6.812241,Fc,
+IDN,2017-07-01,2017-07-31,101,Indonesia,23014,Food price inflation,7007,July,2017,2017,%,1.504463,Fc,
+IDN,2018-07-01,2018-07-31,101,Indonesia,23014,Food price inflation,7007,July,2018,2018,%,5.347139,Fc,
+IDN,2019-07-01,2019-07-31,101,Indonesia,23014,Food price inflation,7007,July,2019,2019,%,-0.639515,Fc,
+IDN,2020-07-01,2020-07-31,101,Indonesia,23014,Food price inflation,7007,July,2020,2020,%,5.434182,Fc,
+IDN,2001-08-01,2001-08-31,101,Indonesia,23014,Food price inflation,7008,August,2001,2001,%,8.815472,Fc,
+IDN,2002-08-01,2002-08-31,101,Indonesia,23014,Food price inflation,7008,August,2002,2002,%,8.973499,Fc,
+IDN,2003-08-01,2003-08-31,101,Indonesia,23014,Food price inflation,7008,August,2003,2003,%,1.015855,Fc,
+IDN,2004-08-01,2004-08-31,101,Indonesia,23014,Food price inflation,7008,August,2004,2004,%,7.816555,Fc,
+IDN,2005-08-01,2005-08-31,101,Indonesia,23014,Food price inflation,7008,August,2005,2005,%,9.482748,Fc,
+IDN,2006-08-01,2006-08-31,101,Indonesia,23014,Food price inflation,7008,August,2006,2006,%,15.205882,Fc,
+IDN,2007-08-01,2007-08-31,101,Indonesia,23014,Food price inflation,7008,August,2007,2007,%,11.663864,Fc,
+IDN,2008-08-01,2008-08-31,101,Indonesia,23014,Food price inflation,7008,August,2008,2008,%,20.108378,Fc,
+IDN,2009-08-01,2009-08-31,101,Indonesia,23014,Food price inflation,7008,August,2009,2009,%,4.661655,Fc,
+IDN,2010-08-01,2010-08-31,101,Indonesia,23014,Food price inflation,7008,August,2010,2010,%,13.210402,Fc,
+IDN,2011-08-01,2011-08-31,101,Indonesia,23014,Food price inflation,7008,August,2011,2011,%,5.837980,Fc,
+IDN,2012-08-01,2012-08-31,101,Indonesia,23014,Food price inflation,7008,August,2012,2012,%,7.447911,Fc,
+IDN,2013-08-01,2013-08-31,101,Indonesia,23014,Food price inflation,7008,August,2013,2013,%,15.115568,Fc,
+IDN,2014-08-01,2014-08-31,101,Indonesia,23014,Food price inflation,7008,August,2014,2014,%,1.778325,Fc,
+IDN,2015-08-01,2015-08-31,101,Indonesia,23014,Food price inflation,7008,August,2015,2015,%,9.257409,Fc,
+IDN,2016-08-01,2016-08-31,101,Indonesia,23014,Food price inflation,7008,August,2016,2016,%,5.135629,Fc,
+IDN,2017-08-01,2017-08-31,101,Indonesia,23014,Food price inflation,7008,August,2017,2017,%,1.507465,Fc,
+IDN,2018-08-01,2018-08-31,101,Indonesia,23014,Food price inflation,7008,August,2018,2018,%,4.897901,Fc,
+IDN,2019-08-01,2019-08-31,101,Indonesia,23014,Food price inflation,7008,August,2019,2019,%,0.735094,Fc,
+IDN,2020-08-01,2020-08-31,101,Indonesia,23014,Food price inflation,7008,August,2020,2020,%,4.240808,Fc,
+IDN,2001-09-01,2001-09-30,101,Indonesia,23014,Food price inflation,7009,September,2001,2001,%,10.658166,Fc,
+IDN,2002-09-01,2002-09-30,101,Indonesia,23014,Food price inflation,7009,September,2002,2002,%,10.121674,Fc,
+IDN,2003-09-01,2003-09-30,101,Indonesia,23014,Food price inflation,7009,September,2003,2003,%,0.306889,Fc,
+IDN,2004-09-01,2004-09-30,101,Indonesia,23014,Food price inflation,7009,September,2004,2004,%,6.715630,Fc,
+IDN,2005-09-01,2005-09-30,101,Indonesia,23014,Food price inflation,7009,September,2005,2005,%,15.639319,Fc,
+IDN,2006-09-01,2006-09-30,101,Indonesia,23014,Food price inflation,7009,September,2006,2006,%,11.317717,Fc,
+IDN,2007-09-01,2007-09-30,101,Indonesia,23014,Food price inflation,7009,September,2007,2007,%,12.984420,Fc,
+IDN,2008-09-01,2008-09-30,101,Indonesia,23014,Food price inflation,7009,September,2008,2008,%,20.214860,Fc,
+IDN,2009-09-01,2009-09-30,101,Indonesia,23014,Food price inflation,7009,September,2009,2009,%,5.206197,Fc,
+IDN,2010-09-01,2010-09-30,101,Indonesia,23014,Food price inflation,7009,September,2010,2010,%,11.019317,Fc,
+IDN,2011-09-01,2011-09-30,101,Indonesia,23014,Food price inflation,7009,September,2011,2011,%,5.271661,Fc,
+IDN,2012-09-01,2012-09-30,101,Indonesia,23014,Food price inflation,7009,September,2012,2012,%,6.554598,Fc,
+IDN,2013-09-01,2013-09-30,101,Indonesia,23014,Food price inflation,7009,September,2013,2013,%,12.879995,Fc,
+IDN,2014-09-01,2014-09-30,101,Indonesia,23014,Food price inflation,7009,September,2014,2014,%,4.587476,Fc,
+IDN,2015-09-01,2015-09-30,101,Indonesia,23014,Food price inflation,7009,September,2015,2015,%,8.263843,Fc,
+IDN,2016-09-01,2016-09-30,101,Indonesia,23014,Food price inflation,7009,September,2016,2016,%,6.200416,Fc,
+IDN,2017-09-01,2017-09-30,101,Indonesia,23014,Food price inflation,7009,September,2017,2017,%,1.044386,Fc,
+IDN,2018-09-01,2018-09-30,101,Indonesia,23014,Food price inflation,7009,September,2018,2018,%,3.718059,Fc,
+IDN,2019-09-01,2019-09-30,101,Indonesia,23014,Food price inflation,7009,September,2019,2019,%,2.698962,Fc,
+IDN,2020-09-01,2020-09-30,101,Indonesia,23014,Food price inflation,7009,September,2020,2020,%,3.575784,Fc,
+IDN,2001-10-01,2001-10-31,101,Indonesia,23014,Food price inflation,7010,October,2001,2001,%,11.676921,Fc,
+IDN,2002-10-01,2002-10-31,101,Indonesia,23014,Food price inflation,7010,October,2002,2002,%,9.403730,Fc,
+IDN,2003-10-01,2003-10-31,101,Indonesia,23014,Food price inflation,7010,October,2003,2003,%,1.633573,Fc,
+IDN,2004-10-01,2004-10-31,101,Indonesia,23014,Food price inflation,7010,October,2004,2004,%,6.204004,Fc,
+IDN,2005-10-01,2005-10-31,101,Indonesia,23014,Food price inflation,7010,October,2005,2005,%,17.977352,Fc,
+IDN,2006-10-01,2006-10-31,101,Indonesia,23014,Food price inflation,7010,October,2006,2006,%,9.998812,Fc,
+IDN,2007-10-01,2007-10-31,101,Indonesia,23014,Food price inflation,7010,October,2007,2007,%,12.643043,Fc,
+IDN,2008-10-01,2008-10-31,101,Indonesia,23014,Food price inflation,7010,October,2008,2008,%,18.848573,Fc,
+IDN,2009-10-01,2009-10-31,101,Indonesia,23014,Food price inflation,7010,October,2009,2009,%,4.762687,Fc,
+IDN,2010-10-01,2010-10-31,101,Indonesia,23014,Food price inflation,7010,October,2010,2010,%,9.768422,Fc,
+IDN,2011-10-01,2011-10-31,101,Indonesia,23014,Food price inflation,7010,October,2011,2011,%,5.805305,Fc,
+IDN,2012-10-01,2012-10-31,101,Indonesia,23014,Food price inflation,7010,October,2012,2012,%,6.470392,Fc,
+IDN,2013-10-01,2013-10-31,101,Indonesia,23014,Food price inflation,7010,October,2013,2013,%,12.996529,Fc,
+IDN,2014-10-01,2014-10-31,101,Indonesia,23014,Food price inflation,7010,October,2014,2014,%,5.188555,Fc,
+IDN,2015-10-01,2015-10-31,101,Indonesia,23014,Food price inflation,7010,October,2015,2015,%,6.854101,Fc,
+IDN,2016-10-01,2016-10-31,101,Indonesia,23014,Food price inflation,7010,October,2016,2016,%,7.107271,Fc,
+IDN,2017-10-01,2017-10-31,101,Indonesia,23014,Food price inflation,7010,October,2017,2017,%,0.799477,Fc,
+IDN,2018-10-01,2018-10-31,101,Indonesia,23014,Food price inflation,7010,October,2018,2018,%,4.405509,Fc,
+IDN,2019-10-01,2019-10-31,101,Indonesia,23014,Food price inflation,7010,October,2019,2019,%,2.969613,Fc,
+IDN,2020-10-01,2020-10-31,101,Indonesia,23014,Food price inflation,7010,October,2020,2020,%,3.393351,Fc,
+IDN,2001-11-01,2001-11-30,101,Indonesia,23014,Food price inflation,7011,November,2001,2001,%,14.402920,Fc,
+IDN,2002-11-01,2002-11-30,101,Indonesia,23014,Food price inflation,7011,November,2002,2002,%,9.689230,Fc,
+IDN,2003-11-01,2003-11-30,101,Indonesia,23014,Food price inflation,7011,November,2003,2003,%,-0.871712,Fc,
+IDN,2004-11-01,2004-11-30,101,Indonesia,23014,Food price inflation,7011,November,2004,2004,%,5.965124,Fc,
+IDN,2005-11-01,2005-11-30,101,Indonesia,23014,Food price inflation,7011,November,2005,2005,%,18.215753,Fc,
+IDN,2006-11-01,2006-11-30,101,Indonesia,23014,Food price inflation,7011,November,2006,2006,%,8.049618,Fc,
+IDN,2007-11-01,2007-11-30,101,Indonesia,23014,Food price inflation,7011,November,2007,2007,%,11.954519,Fc,
+IDN,2008-11-01,2008-11-30,101,Indonesia,23014,Food price inflation,7011,November,2008,2008,%,18.009477,Fc,
+IDN,2009-11-01,2009-11-30,101,Indonesia,23014,Food price inflation,7011,November,2009,2009,%,4.597985,Fc,
+IDN,2010-11-01,2010-11-30,101,Indonesia,23014,Food price inflation,7011,November,2010,2010,%,12.333492,Fc,
+IDN,2011-11-01,2011-11-30,101,Indonesia,23014,Food price inflation,7011,November,2011,2011,%,4.861882,Fc,
+IDN,2012-11-01,2012-11-30,101,Indonesia,23014,Food price inflation,7011,November,2012,2012,%,5.707432,Fc,
+IDN,2013-11-01,2013-11-30,101,Indonesia,23014,Food price inflation,7011,November,2013,2013,%,12.601375,Fc,
+IDN,2014-11-01,2014-11-30,101,Indonesia,23014,Food price inflation,7011,November,2014,2014,%,7.965535,Fc,
+IDN,2015-11-01,2015-11-30,101,Indonesia,23014,Food price inflation,7011,November,2015,2015,%,4.959283,Fc,
+IDN,2016-11-01,2016-11-30,101,Indonesia,23014,Food price inflation,7011,November,2016,2016,%,8.526651,Fc,
+IDN,2017-11-01,2017-11-30,101,Indonesia,23014,Food price inflation,7011,November,2017,2017,%,-0.486131,Fc,
+IDN,2018-11-01,2018-11-30,101,Indonesia,23014,Food price inflation,7011,November,2018,2018,%,4.238506,Fc,
+IDN,2019-11-01,2019-11-30,101,Indonesia,23014,Food price inflation,7011,November,2019,2019,%,3.032391,Fc,
+IDN,2020-11-01,2020-11-30,101,Indonesia,23014,Food price inflation,7011,November,2020,2020,%,4.006240,Fc,
+IDN,2001-12-01,2001-12-31,101,Indonesia,23014,Food price inflation,7012,December,2001,2001,%,12.040267,Fc,
+IDN,2002-12-01,2002-12-31,101,Indonesia,23014,Food price inflation,7012,December,2002,2002,%,9.058519,Fc,
+IDN,2003-12-01,2003-12-31,101,Indonesia,23014,Food price inflation,7012,December,2003,2003,%,-1.235256,Fc,
+IDN,2004-12-01,2004-12-31,101,Indonesia,23014,Food price inflation,7012,December,2004,2004,%,6.426089,Fc,
+IDN,2005-12-01,2005-12-31,101,Indonesia,23014,Food price inflation,7012,December,2005,2005,%,13.899786,Fc,
+IDN,2006-12-01,2006-12-31,101,Indonesia,23014,Food price inflation,7012,December,2006,2006,%,12.938792,Fc,
+IDN,2007-12-01,2007-12-31,101,Indonesia,23014,Food price inflation,7012,December,2007,2007,%,11.256969,Fc,
+IDN,2008-12-01,2008-12-31,101,Indonesia,23014,Food price inflation,7012,December,2008,2008,%,15.809335,Fc,
+IDN,2009-12-01,2009-12-31,101,Indonesia,23014,Food price inflation,7012,December,2009,2009,%,3.879373,Fc,
+IDN,2010-12-01,2010-12-31,101,Indonesia,23014,Food price inflation,7012,December,2010,2010,%,15.636287,Fc,
+IDN,2011-12-01,2011-12-31,101,Indonesia,23014,Food price inflation,7012,December,2011,2011,%,3.643403,Fc,
+IDN,2012-12-01,2012-12-31,101,Indonesia,23014,Food price inflation,7012,December,2012,2012,%,5.682099,Fc,
+IDN,2013-12-01,2013-12-31,101,Indonesia,23014,Food price inflation,7012,December,2013,2013,%,11.713770,Fc,
+IDN,2014-12-01,2014-12-31,101,Indonesia,23014,Food price inflation,7012,December,2014,2014,%,10.572226,Fc,
+IDN,2015-12-01,2015-12-31,101,Indonesia,23014,Food price inflation,7012,December,2015,2015,%,4.930577,Fc,
+IDN,2016-12-01,2016-12-31,101,Indonesia,23014,Food price inflation,7012,December,2016,2016,%,5.691301,Fc,
+IDN,2017-12-01,2017-12-31,101,Indonesia,23014,Food price inflation,7012,December,2017,2017,%,1.259070,Fc,
+IDN,2018-12-01,2018-12-31,101,Indonesia,23014,Food price inflation,7012,December,2018,2018,%,3.407095,Fc,
+IDN,2019-12-01,2019-12-31,101,Indonesia,23014,Food price inflation,7012,December,2019,2019,%,1.834239,Fc,
+IDN,2020-12-01,2020-12-31,101,Indonesia,23014,Food price inflation,7012,December,2020,2020,%,5.278787,Fc,
